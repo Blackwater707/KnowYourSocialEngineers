@@ -1,8 +1,0 @@
-{
-    "answers": {
-        "bb": "BAITING",
-        "pp": "PRETEXTING",
-        "cc": "CATFISHING"
-    },
-    "flag": "IGNITE{SOC1AL_ENG1N33R_T4CT1CS}"
-}
